@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Palangka Raya 1",
+    "districts": [
+      {
+        "name": "Bukit Batu",
+        "subDistricts": [
+          {
+            "name": "Banturung",
+            "pollingStations": 5
+          },
+          {
+            "name": "Habaring Hurung",
+            "pollingStations": 5
+          },
+          {
+            "name": "Kanarakan",
+            "pollingStations": 5
+          },
+          {
+            "name": "Marang",
+            "pollingStations": 5
+          },
+          {
+            "name": "Sei Gohong",
+            "pollingStations": 5
+          },
+          {
+            "name": "Tangkiling",
+            "pollingStations": 5
+          },
+          {
+            "name": "Tumbang Tahai",
+            "pollingStations": 5
+          }
+        ]
+      },
+      {
+        "name": "Jekan Raya (A)",
+        "subDistricts": [
+          {
+            "name": "Bukit Tunggal",
+            "pollingStations": 5
+          },
+          {
+            "name": "Petuk Katimpun",
+            "pollingStations": 5
+          }
+        ]
+      },
+      {
+        "name": "Rakumpit",
+        "subDistricts": [
+          {
+            "name": "Bukit Sua",
+            "pollingStations": 5
+          },
+          {
+            "name": "Gaung Baru",
+            "pollingStations": 5
+          },
+          {
+            "name": "Mungku Baru",
+            "pollingStations": 5
+          },
+          {
+            "name": "Pager",
+            "pollingStations": 5
+          },
+          {
+            "name": "Panjehang",
+            "pollingStations": 5
+          },
+          {
+            "name": "Petuk Barunai",
+            "pollingStations": 5
+          },
+          {
+            "name": "Petuk Bukit",
+            "pollingStations": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Palangka Raya 2",
+    "districts": [
+      {
+        "name": "Jekan Raya (B)",
+        "subDistricts": [
+          {
+            "name": "Menteng",
+            "pollingStations": 5
+          },
+          {
+            "name": "Palangka",
+            "pollingStations": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Palangka Raya 3",
+    "districts": [
+      {
+        "name": "Pahandut",
+        "subDistricts": [
+          {
+            "name": "Langkai",
+            "pollingStations": 5
+          },
+          {
+            "name": "Pahandut",
+            "pollingStations": 5
+          },
+          {
+            "name": "Pahandut Seberang",
+            "pollingStations": 5
+          },
+          {
+            "name": "Panarung",
+            "pollingStations": 5
+          },
+          {
+            "name": "Tanjung Pinang",
+            "pollingStations": 5
+          },
+          {
+            "name": "Tumbang Rungan",
+            "pollingStations": 5
+          }
+        ]
+      },
+      {
+        "name": "Sebangau",
+        "subDistricts": [
+          {
+            "name": "Bereng Bengkel",
+            "pollingStations": 5
+          },
+          {
+            "name": "Danau Tundai",
+            "pollingStations": 5
+          },
+          {
+            "name": "Kalampangan",
+            "pollingStations": 5
+          },
+          {
+            "name": "Kameloh Baru",
+            "pollingStations": 5
+          },
+          {
+            "name": "Kereng Bangkirai",
+            "pollingStations": 5
+          },
+          {
+            "name": "Sabaru",
+            "pollingStations": 5
+          }
+        ]
+      }
+    ]
+  }
+]
