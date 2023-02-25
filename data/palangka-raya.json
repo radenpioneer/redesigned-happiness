@@ -7,19 +7,19 @@
         "subDistricts": [
           {
             "name": "Banturung",
-            "pollingStations": 5
+            "pollingStations": 13
           },
           {
             "name": "Habaring Hurung",
-            "pollingStations": 5
+            "pollingStations": 4
           },
           {
             "name": "Kanarakan",
-            "pollingStations": 5
+            "pollingStations": 1
           },
           {
             "name": "Marang",
-            "pollingStations": 5
+            "pollingStations": 4
           },
           {
             "name": "Sei Gohong",
@@ -27,11 +27,11 @@
           },
           {
             "name": "Tangkiling",
-            "pollingStations": 5
+            "pollingStations": 10
           },
           {
             "name": "Tumbang Tahai",
-            "pollingStations": 5
+            "pollingStations": 9
           }
         ]
       },
@@ -40,11 +40,11 @@
         "subDistricts": [
           {
             "name": "Bukit Tunggal",
-            "pollingStations": 5
+            "pollingStations": 147
           },
           {
             "name": "Petuk Katimpun",
-            "pollingStations": 5
+            "pollingStations": 10
           }
         ]
       },
@@ -53,31 +53,31 @@
         "subDistricts": [
           {
             "name": "Bukit Sua",
-            "pollingStations": 5
+            "pollingStations": 1
           },
           {
             "name": "Gaung Baru",
-            "pollingStations": 5
+            "pollingStations": 1
           },
           {
             "name": "Mungku Baru",
-            "pollingStations": 5
+            "pollingStations": 2
           },
           {
             "name": "Pager",
-            "pollingStations": 5
+            "pollingStations": 2
           },
           {
             "name": "Panjehang",
-            "pollingStations": 5
+            "pollingStations": 1
           },
           {
             "name": "Petuk Barunai",
-            "pollingStations": 5
+            "pollingStations": 3
           },
           {
             "name": "Petuk Bukit",
-            "pollingStations": 5
+            "pollingStations": 4
           }
         ]
       }
@@ -91,11 +91,11 @@
         "subDistricts": [
           {
             "name": "Menteng",
-            "pollingStations": 5
+            "pollingStations": 156
           },
           {
             "name": "Palangka",
-            "pollingStations": 5
+            "pollingStations": 149
           }
         ]
       }
@@ -109,27 +109,27 @@
         "subDistricts": [
           {
             "name": "Langkai",
-            "pollingStations": 5
+            "pollingStations": 101
           },
           {
             "name": "Pahandut",
-            "pollingStations": 5
+            "pollingStations": 97
           },
           {
             "name": "Pahandut Seberang",
-            "pollingStations": 5
+            "pollingStations": 16
           },
           {
             "name": "Panarung",
-            "pollingStations": 5
+            "pollingStations": 80
           },
           {
             "name": "Tanjung Pinang",
-            "pollingStations": 5
+            "pollingStations": 12
           },
           {
             "name": "Tumbang Rungan",
-            "pollingStations": 5
+            "pollingStations": 2
           }
         ]
       },
@@ -138,27 +138,27 @@
         "subDistricts": [
           {
             "name": "Bereng Bengkel",
-            "pollingStations": 5
+            "pollingStations": 4
           },
           {
             "name": "Danau Tundai",
-            "pollingStations": 5
+            "pollingStations": 1
           },
           {
             "name": "Kalampangan",
-            "pollingStations": 5
+            "pollingStations": 14
           },
           {
             "name": "Kameloh Baru",
-            "pollingStations": 5
+            "pollingStations": 2
           },
           {
             "name": "Kereng Bangkirai",
-            "pollingStations": 5
+            "pollingStations": 29
           },
           {
             "name": "Sabaru",
-            "pollingStations": 5
+            "pollingStations": 14
           }
         ]
       }
